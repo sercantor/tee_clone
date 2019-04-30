@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Project Description
 
  - **mytee f1 f2 f3** → reads STDIN and outputs it to files in the argument, error if file(s) already exist
  - **mytee 	-a f1 f2** → append to files, create if doesn't exist
